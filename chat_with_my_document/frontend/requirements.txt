@@ -1,0 +1,6 @@
+Flask
+openai
+chromadb
+pymupdf
+streamlit
+requests
