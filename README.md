@@ -9,22 +9,15 @@ Streamlit Interface: Presents the extracted information in a user-friendly Strea
 Getting Started
 Clone the Repository:
 
-bash
-Copy code
+
 git clone https://github.com/yourusername/llm-info-extraction.git
+
 Install Requirements:
-
-Navigate to the project directory and install the necessary dependencies:
-
-bash
-Copy code
 cd llm-info-extraction
+
 pip install -r requirements.txt
+
 Run the Streamlit App:
 
-Launch the app with the following command:
-
-bash
-Copy code
 streamlit run app.py
 This will open a browser window displaying the interface for information extraction.
