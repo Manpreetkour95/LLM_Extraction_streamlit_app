@@ -10,7 +10,7 @@ Getting Started
 Clone the Repository:
 
 
-git clone https://github.com/yourusername/llm-info-extraction.git
+git clone 
 
 Install Requirements:
 cd llm-info-extraction
